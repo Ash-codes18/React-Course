@@ -8,7 +8,7 @@
 - [x] Section 7
 - [x] Section 11
 - [x] Section 15
-- [ ] Section 17
+- [x] Section 17
 - [ ] Section 19
 - [ ] Section 20
 - [ ] Section 21
